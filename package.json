@@ -1,0 +1,10 @@
+{
+  "name": "journey-clean",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Teire install journey: a supported repository with nothing out of date",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "test": "node --test" },
+  "dependencies": { "zod": "^4.6.7" }
+}
